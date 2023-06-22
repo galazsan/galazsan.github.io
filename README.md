@@ -5,11 +5,7 @@
   I am a Software Engineer
 </h3>
 
-<div align="center">
-  <img src="https://github.com/reactomoss/reactomoss/blob/main/divider1.png" alt="divider"/>
-</div> 
-
-<h3 align="center"><img src="https://github.com/reactomoss/reactomoss/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center">Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
