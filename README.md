@@ -48,22 +48,3 @@
       </td>
     </tr>
   </table>
-  
-
-<div align="center">
-  <img src="https://github.com/reactomoss/reactomoss/blob/main/divider2.png" alt="divider"/>
-</div> 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
-
-<div align="center">
-  <img src="https://github.com/reactomoss/reactomoss/blob/main/divider2.png" alt="divider"/>
-</div>    
-<div align="center">
-  <img src="https://github.com/reactomoss/reactomoss/blob/main/portfolio.png" alt="Portfolio"/>
-</div> 
-
-<div align="center">
-  <img src="https://github.com/reactomoss/reactomoss/blob/main/divider1.png" alt="divider"/>
-</div> 
